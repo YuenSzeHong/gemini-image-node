@@ -1,0 +1,8 @@
+.env
+*.zip
+output
+outputs
+Gemini images
+*.png
+service-account.json
+node_modules
